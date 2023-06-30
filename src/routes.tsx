@@ -1,4 +1,4 @@
-import Index from '~/pages';
+import Index from '~/components/pages';
 import Detail from '~/pages/detail';
 import Home from '~/pages/home';
 import Error from '~/components/pages/error';
